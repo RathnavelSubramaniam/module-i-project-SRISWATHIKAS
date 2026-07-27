@@ -1,6 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/D94-Q8ry)
-
-
 # Stock News Analysis based on Sentiments 📊
 ## Overview
 
@@ -31,7 +28,7 @@ The project aims to:
 * `Label` : The sentiment polarity of the news content
     * 1: positive
     * 0: neutral
-    * -1: negative## Technologies Used
+    * -1: negative
 ## Packages
 - Pandas
 - NumPy
